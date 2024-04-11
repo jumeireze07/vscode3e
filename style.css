@@ -26,3 +26,14 @@ font-family: 'chakra petch', sans-serif;
  width: 100%;
  font-size: 32px;
 }
+.botao{
+   font-family: 'Chakra Petch',sans-serif;
+   background-color: var(--botao-inativo);
+   color: var(--branco);
+   display: flex;
+   justify-cotent:center;
+   padding: 1em;
+   font-size:18px;
+   align-items:center;
+   width:100%;
+}
